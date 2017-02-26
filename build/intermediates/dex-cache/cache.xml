@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\bike-detection\bike-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\bike-detection\openCVLibrary2411\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4f84f96739d7f34322dfb8409a020075f3d82327">
+        <dex dex="F:\bike-detection\bike-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\bike-detection-openCVLibrary2411-unspecified_6b6289d6460d8cae68ff9356ff6e109eb6a46d2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidEnvironment\sdk_1427719283328\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="F:\bike-detection\bike-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\support-v4-19.0.1_e419ea2ed3663bfa3179592bec2a1e8ff2c28fb4.jar" />
+    </item>
+
+</items>

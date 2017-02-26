@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\icon.png"
+    }
+]

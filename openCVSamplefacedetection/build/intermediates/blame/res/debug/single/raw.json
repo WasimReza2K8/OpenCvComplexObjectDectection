@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bus.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bus.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\horse.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\horse.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_5.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_5.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_2.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_2.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\train.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\train.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_1.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_1.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\dog.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\dog.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle_new.xml",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle_new.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\img1.png",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\img1.png"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_3.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_3.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_2.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_2.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\motorbike.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\motorbike.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_2.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_2.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_2.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_2.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_4.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_4.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bottle.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bottle.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\dog.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\dog.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle_new.xml",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle_new.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_4.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_4.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_4.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_4.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\sheep.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\sheep.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\aeroplane.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\aeroplane.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_1.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_1.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_1.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_1.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\chair.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\chair.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_4.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_4.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_4.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_4.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_1.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_1.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bottle.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bottle.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_4.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_4.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_5.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_5.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\person.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\person.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\train.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\train.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_1.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_1.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\img7.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\img7.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\img1.png",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\img1.png"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\car.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\car.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_2.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_2.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_5.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_5.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_5.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_5.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_3.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_3.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pottedplant.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pottedplant.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_5.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_5.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_3.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_3.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\img1.png",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\img1.png"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_1.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_1.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle_image.png",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle_image.png"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle_image.png",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle_image.png"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\car.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\car.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_4.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_4.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\sofa.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\sofa.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cow.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\cow.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle_image.png",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle_image.png"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_1.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_1.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\motorbike.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\motorbike.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\img7.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\img7.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_2.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_2.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\person.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\person.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_2.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_2.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\diningtable.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\diningtable.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\boat.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\boat.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\sofa.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\sofa.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\tvmonitor.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\tvmonitor.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_3.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_3.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\img1.png",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\img1.png"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_3.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_3.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle.xml",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_1.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_1.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_4.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_4.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_5.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_5.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_5.jpg",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_5.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_2.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_2.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\img7.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\img7.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\neg_5.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\neg_5.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\horse.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\horse.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bird.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bird.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle_image.png",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle_image.png"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cow.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\cow.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pottedplant.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pottedplant.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\chair.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\chair.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_3.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_3.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_3.jpg",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_3.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\diningtable.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\diningtable.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bus.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bus.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\tvmonitor.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\tvmonitor.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\img7.jpg",
+        "source": "F:\\home\\bjit-16\\OpenCV-android-sdk\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\img7.jpg"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\pos_3.jpg",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\pos_3.jpg"
+    },
+    {
+        "merged": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\boat.xml",
+        "source": "F:\\bike-detection\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\boat.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bird.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bird.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\sheep.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\sheep.xml"
+    },
+    {
+        "merged": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle.xml",
+        "source": "F:\\home\\bjit-4\\Mostafiz\\Android\\OpenCV-android-sdk\\samples\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\bicycle.xml"
+    },
+    {
+        "merged": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat.xml",
+        "source": "F:\\bike-detection\\bike-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat.xml"
+    }
+]

@@ -1,0 +1,16 @@
+Executable : /home/bjit-4/Android/Sdk/ndk-bundle/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/home/bjit-4/Mostafiz/Android/OpenCV-android-sdk/samples/face-detection/jni/Android.mk
+NDK_APPLICATION_MK=/home/bjit-4/Mostafiz/Android/OpenCV-android-sdk/samples/face-detection/jni/Application.mk
+APP_ABI=mips
+NDK_ALL_ABIS=mips
+NDEBUG=0
+APP_PLATFORM=android-9
+NDK_OUT=/home/bjit-4/Mostafiz/Android/OpenCV-android-sdk/samples/face-detection/openCVSamplefacedetection/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=/home/bjit-4/Mostafiz/Android/OpenCV-android-sdk/samples/face-detection/openCVSamplefacedetection/build/intermediates/ndkBuild/release/lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-n
+jvmArgs : 
+
